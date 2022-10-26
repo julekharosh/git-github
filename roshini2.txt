@@ -1,2 +1,6 @@
 this is my second file
+<<<<<<< HEAD
 this is my first modification of roshini2
+=======
+git helps developers by saving the snapshots of each version
+>>>>>>> 43c1149d802a38dc4889d6e9fbd0b2990a45061e

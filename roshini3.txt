@@ -1,2 +1,6 @@
 this is my third file
+<<<<<<< HEAD
 this is my first modification of roshini3
+=======
+ git is a version control system 
+>>>>>>> 43c1149d802a38dc4889d6e9fbd0b2990a45061e
