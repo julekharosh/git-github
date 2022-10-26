@@ -1,1 +1,2 @@
-this is the first file of first branch
+this is the first file of the first branch
+this is a sample text
