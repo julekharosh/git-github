@@ -1,3 +1,4 @@
 this is my first file
  Git has some cool new features which will be quite helpful for developers.
- this is my first modification in central repository
+ this is my first modification in the  central repository
+adding a few lines to the file

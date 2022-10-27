@@ -1,2 +1,3 @@
 this is my second file
 git helps developers by saving the snapshots of each version
+adding a few lines to the file
