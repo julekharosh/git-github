@@ -1,7 +1,4 @@
 this is my first file
-<<<<<<< HEAD
 this is my first modification of roshini1
-=======
  Git has some cool new features which will be quite helpful for developers.
  this is my first modification in central repository
->>>>>>> 43c1149d802a38dc4889d6e9fbd0b2990a45061e
