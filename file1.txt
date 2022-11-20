@@ -1,1 +1,2 @@
-first file of new branch
+first file of new branch modifird
+second line
